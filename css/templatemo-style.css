@@ -579,7 +579,7 @@ select:not([multiple]) {
         position: fixed;
         top: 50px;
         right: 0px;
-        background: white;
+        background: rgb(246, 244, 217);
         width: 150px;
         padding: 15px;
     }
